@@ -16,11 +16,13 @@
 | ------- |
 | [0509-fibonacci-number](https://github.com/Anoopk51/leetcode-submissions/tree/master/0509-fibonacci-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Anoopk51/leetcode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3765-complete-prime-number](https://github.com/Anoopk51/leetcode-submissions/tree/master/3765-complete-prime-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anoopk51/leetcode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Anoopk51/leetcode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3765-complete-prime-number](https://github.com/Anoopk51/leetcode-submissions/tree/master/3765-complete-prime-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anoopk51/leetcode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -46,4 +48,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Anoopk51/leetcode-submissions/tree/master/0509-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [3765-complete-prime-number](https://github.com/Anoopk51/leetcode-submissions/tree/master/3765-complete-prime-number) |
 <!---LeetCode Topics End-->
