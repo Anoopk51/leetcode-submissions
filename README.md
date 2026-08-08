@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Anoopk51/leetcode-submissions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Anoopk51/leetcode-submissions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Anoopk51/leetcode-submissions/tree/master/0509-fibonacci-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Anoopk51/leetcode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3765-complete-prime-number](https://github.com/Anoopk51/leetcode-submissions/tree/master/3765-complete-prime-number) |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Anoopk51/leetcode-submissions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Anoopk51/leetcode-submissions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Anoopk51/leetcode-submissions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
