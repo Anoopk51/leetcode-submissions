@@ -32,7 +32,7 @@ class Solution {
             temp.val = num%10;
             if (temp1 != null || temp2 != null || carry != 0){
                 temp.next = new ListNode();
-                temp = temp.next;;
+                temp = temp.next;
             }
             
         }
