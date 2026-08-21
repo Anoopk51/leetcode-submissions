@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anoopk51/leetcode-submissions/tree/master/0001-two-sum) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Anoopk51/leetcode-submissions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Math
 |  |
 | ------- |
@@ -70,4 +71,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anoopk51/leetcode-submissions/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Anoopk51/leetcode-submissions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
+## Counting
+|  |
+| ------- |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Anoopk51/leetcode-submissions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 <!---LeetCode Topics End-->
