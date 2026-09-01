@@ -80,6 +80,7 @@
 | ------- |
 | [0344-reverse-string](https://github.com/Anoopk51/leetcode-submissions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Anoopk51/leetcode-submissions/tree/master/0680-valid-palindrome-ii) |
+| [3136-valid-word](https://github.com/Anoopk51/leetcode-submissions/tree/master/3136-valid-word) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Anoopk51/leetcode-submissions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
 |  |
