@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anoopk51/leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anoopk51/leetcode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anoopk51/leetcode-submissions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/Anoopk51/leetcode-submissions/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,4 +93,8 @@
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Anoopk51/leetcode-submissions/tree/master/0680-valid-palindrome-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/Anoopk51/leetcode-submissions/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
