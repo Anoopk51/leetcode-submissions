@@ -4,8 +4,15 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
-        
+        List = [0,1]
         if n == 0 or n == 1:
-            return n
+            return List[n]
+        
+        for i in range(2,n+1):
+            List.append(List[i-1] + List[i-2])
+        return List[n]
 
-        return self.fib(n-1) + self.fib(n-2)
+
+       
+
+
